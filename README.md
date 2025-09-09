@@ -5,6 +5,8 @@ Credit Banking Software is a comprehensive end-to-end online loan management sys
 
 This Lending PHP Solution enables the capture of personal information, unique identifiers, next of pin details, business information and much more. You can upload scanned photos or documents to a client’s account. You can also add your own custom fields. This system has a flexible loan and savings module which you can adjust or customize to suit your microfinance needs. Manageable fields include loan term, interest rate, repayment schedule, interest calculation method, charges and many other options. Loan approval process follows the best microfinance standard. You can configure your chart of accounts with GL codes and link them to loan or savings products and many other applicable areas. Some journal entries are automatic like loan disbursements while some can be added manually. You can find various accounting reports like trial balance, balance sheet and profit and loss accounts. View and export high quality reports. Reports include borrower numbers, loan portfolio, arrears reports, savings reports, expected vs actual payments, collection sheets, provisioning and many more.
 
+<img src="https://www.phpscriptsonline.com/frontend/assets/templates/1736564223_677f0250bcf366650614.webp">
+
 <b>Credit Banking Management Software has following key features:</b>
 
 <ul>
@@ -23,5 +25,15 @@ This Lending PHP Solution enables the capture of personal information, unique id
 <li>General Configuration</li>
 <li>Reports – Client Reports, Loan Report, Financial Reports, Administrative Reports</li>
 </ul>
-<b>More details and download link:</b></br>
-https://www.phpscriptsonline.com/product/credit-banking-software/
+
+More details and download project
+https://www.phpscriptsonline.com/product/credit-banking-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
